@@ -1,6 +1,6 @@
 {
-  "version": "0.2B",
+  "version": "0.3B",
   "download": "https://github.com/Rewxkd/burger-updates/releases/latest",
-  "required": false,
+  "required": true,
   "message": "New Burger Client update available."
 }
