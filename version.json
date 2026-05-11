@@ -1,8 +1,8 @@
 {
-  "version": "0.67",
-  "download": "https://github.com/Rewxkd/burger-updates/releases/tag/v0.67",
-  "jar": "https://github.com/Rewxkd/burger-updates/releases/download/v0.67/BurgerClient-0.67.jar",
-  "file": "BurgerClient-0.67.jar",
+  "version": "0.6-Beta",
+  "download": "https://github.com/Rewxkd/burger-updates/releases/tag/v0.6-Beta",
+  "jar": "https://github.com/Rewxkd/burger-updates/releases/download/v0.6-Beta/BurgerClient-0.6-Beta.jar",
+  "file": "BurgerClient-0.6-Beta.jar",
   "required": true,
   "message": "New Burger Client update available."
 }
